@@ -12,7 +12,7 @@ This project is a **responsive and interactive Employee Directory Web Interface*
 
 2. **Navigate to the project folder**:
    ```bash
-   cd /AJACKUSAssignment
+   cd /ajackus-assignment
    ```
 
 3. **Open `index.html` in any modern browser** to view the application:
